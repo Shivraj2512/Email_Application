@@ -1,5 +1,4 @@
 # Email_Application
-Eamil application
 =========================================================================================================================
 As IT support asministrator Specialist your charged with task of creating email account for new hires.
 
